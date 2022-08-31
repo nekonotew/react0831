@@ -3,7 +3,7 @@ import React from 'react';
 const App = () => {
   return (
     <div>
-    <div>App  hhfffa</div>
+    <div>App  デプロイ成功！</div>
     </div>
   );
 
